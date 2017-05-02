@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/My5x6.unity
+- path: Assets/Pei.unity
   isLoaded: 1
   isActive: 1
