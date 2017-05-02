@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Pei.unity
+- path: Assets/leila.unity
   isLoaded: 1
   isActive: 1
